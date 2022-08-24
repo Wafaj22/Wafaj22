@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Wafaj22&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Wafaj22&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafaj22&langs_count=5&theme=tokyonight)]()
 
 <!--
