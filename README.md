@@ -1,7 +1,10 @@
 ---
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>.
-- 🔭 I’m currently working on a data labeling platform
+
+- I am a software developer with a passion for frontend development. 
+- I love building projects and am always looking for new challenges to tackle. 
+- If I am not coding, I am either painting or working out.
+- Currently working on a data labelling platform.
 
 ---
 
