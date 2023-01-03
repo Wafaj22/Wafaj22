@@ -1,10 +1,10 @@
----
 ### :woman_technologist: About Me :
 
-- I am a software developer with a passion for frontend development. 
-- I love building projects and am always looking for new challenges to tackle. 
-- If I am not coding, I am either painting or working out.
-- Currently working on a data labelling platform.
+- 💬 I am a software developer with a passion for frontend development. 
+- 🌱 I love building projects and am always looking for new challenges to tackle. 
+- 🔭 I’m currently working on on a data labelling platform.
+- 😄 If I am not coding, I am either painting or working out.
+
 
 ---
 
@@ -54,7 +54,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>
 </div>
 
----
+
+<!--
 
 ### :fire: My Stats :
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wafaj22)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,9 +65,6 @@
   alt="Avinal WakaTime Activity"
 />
 
----
-
-<!--
 **Wafaj22/Wafaj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
