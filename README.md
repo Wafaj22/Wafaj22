@@ -54,16 +54,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>
 </div>
 
-
-<!--
-
 ### :fire: My Stats :
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wafaj22)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
   src="https://github.com/Wafaj22/Wafaj22/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="WakaTime Activity"
 />
+
+
+<!--
 
 **Wafaj22/Wafaj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
