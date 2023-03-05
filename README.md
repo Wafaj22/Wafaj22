@@ -54,8 +54,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint" **alt="Eslint" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wafaj22)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: Wakatime Stats :
+[![wakatime](https://wakatime.com/badge/user/f64ca76f-ee37-4cc1-b817-87477685cd1a.svg)](https://wakatime.com/@f64ca76f-ee37-4cc1-b817-87477685cd1a)
 
 <img
   src="https://github.com/Wafaj22/Wafaj22/blob/main/images/stat.svg"
@@ -64,6 +64,8 @@
 
 
 <!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wafaj22)](https://github.com/anuraghazra/github-readme-stats)
 
 **Wafaj22/Wafaj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
