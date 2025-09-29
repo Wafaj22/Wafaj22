@@ -2,7 +2,7 @@
 
 - 💬 I am a software developer with a passion for frontend development. 
 - 🌱 I love building projects and am always looking for new challenges to tackle. 
-- 🔭 I’m currently working on on a data labelling platform.
+- 🔭 I’m currently working on on a private investment platform.
 - 😄 If I am not coding, I am either painting or working out.
 
 
